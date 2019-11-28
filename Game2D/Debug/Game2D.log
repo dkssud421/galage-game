@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\pp\Desktop\galaga game\Game2D\main.cpp(326,7): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\pp\Desktop\galaga game\Game2D\main.cpp(350,7): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\pp\Desktop\galaga game\Game2D\main.cpp(374,7): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\pp\Desktop\galaga game\Game2D\main.cpp(476,7): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  Game2D.vcxproj -> C:\Users\pp\Desktop\galaga game\Debug\Game2D.exe
